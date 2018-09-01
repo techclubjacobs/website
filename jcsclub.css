@@ -1,0 +1,121 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+.content {
+  margin-top: 10px;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+h1, h2, h3, h4, h5, h6, .navbar-brand {
+  font-family: 'Comfortaa', cursive;
+}
+
+h1 {
+  margin-top: 48px;
+}
+
+/* CUSTOMIZE THE NAVIGATION
+-------------------------------------------------- */
+
+.nav img {
+  margin-right: 4px;
+}
+.bg-gradient {
+  background: #01417f; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(135deg , #01417f 0%,#aebfd9 100%); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(135deg , #01417f 0%,#aebfd9 100%); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(135deg , #01417f 0%,#aebfd9 100%); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(135deg , #01417f 0%,#aebfd9 100%); /* Standard syntax */
+}
+
+/* FLEXBOX CONTENT
+-------------------------------------------------- */
+
+.google-form {
+  display: flex;
+  width: 100%;
+  height: 700px;
+  align-items: center;
+  justify-content: center;
+}
+
+.button-bar {
+  display: flex;
+  width: 100%;
+  height: 56px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+/* SECTION CONTENT
+-------------------------------------------------- */
+
+.section .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.section h2 {
+  font-weight: normal;
+}
+.section .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
+
+/* Buttons
+-------------------------------------------------- */
+
+.button-box {
+  background-color: white;
+  width: 140px;
+  height: 56px;
+  margin: auto;
+  border: 8px solid transparent;
+  -moz-border-image: -moz-linear-gradient(top left, #448AFF 0%, #E040FB 100%);
+  -webkit-border-image: -webkit-linear-gradient(top left, #448AFF 0%, #E040FB 100%);
+  border-image: linear-gradient(to bottom right, #448AFF 0%, #E040FB 100%);
+  border-image-slice: 1;
+  border-radius: 10px;
+}
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 2rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the section headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}
+
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 40em) {
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 4rem;
+  }
+}
