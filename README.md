@@ -2,6 +2,8 @@
 
 **466 members** from over 10 classes up to and including the class of 2021.
 
+![Club logo](https://github.com/jacobsCSclub/ws/blob/e156ae38bb94f4865b3b645a7ce015878064b684/images/1486935_779094492106908_1650960898_n.jpg? "The 2013 graphic from the Facebook group")
+
 ## About _Jacobs CS Club_ :
 1. Meet similar minded people.
 2. Do _cool_ projects related to computer science and programming.
