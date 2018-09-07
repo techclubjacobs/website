@@ -4,7 +4,7 @@
 
 ---
 
-![Club logo](https://github.com/jacobsCSclub/ws/blob/e156ae38bb94f4865b3b645a7ce015878064b684/images/1486935_779094492106908_1650960898_n.jpg? "The 2013 graphic from the Facebook group")
+![Club logo](https://github.com/jacobsCSclub/ws/blob/master/images/logo.jpg?? "The 2013 graphic from the Facebook group")
 
 ## About _Jacobs CS Club_ :
 1. Meet similar minded people.
