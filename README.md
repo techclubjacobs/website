@@ -16,8 +16,7 @@
 7. Fill the gap between what you learn and what is relevant for your career plans.
 8. Get prepared for hackathons and tech events.
 9. Networking with Alumni.
-10. Meet students from other other universities.
-11. Social events with professors and tech specialist.
-12. Colaborate with similar clubs on campus.
-13. Give presentation on topics that you enjoy.
-14. Gives basic intro to new technology and tools (examples: git, Cloud Infrastructures, (Management and Administration), Command Line, Node.js...)
+10. Social events with professors and tech specialist.
+11. Colaborate with similar clubs on campus.
+12. Give presentation on topics that you enjoy.
+13. Gives basic intro to new technology and tools (examples: git, Cloud Infrastructures, (Management and Administration), Command Line, Node.js...)
